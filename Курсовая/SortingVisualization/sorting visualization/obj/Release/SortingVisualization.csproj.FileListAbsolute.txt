@@ -1,0 +1,14 @@
+C:\Users\Vogorip\Documents\source\repos\SortingVisualization-master\sorting visualization\bin\Release\sorting visualization.exe.config
+C:\Users\Vogorip\Documents\source\repos\SortingVisualization-master\sorting visualization\bin\Release\sorting visualization.exe
+C:\Users\Vogorip\Documents\source\repos\SortingVisualization-master\sorting visualization\bin\Release\sorting visualization.pdb
+C:\Users\Vogorip\Documents\source\repos\SortingVisualization-master\sorting visualization\obj\Release\MainWindow.g.cs
+C:\Users\Vogorip\Documents\source\repos\SortingVisualization-master\sorting visualization\obj\Release\App.g.cs
+C:\Users\Vogorip\Documents\source\repos\SortingVisualization-master\sorting visualization\obj\Release\sorting visualization_MarkupCompile.cache
+C:\Users\Vogorip\Documents\source\repos\SortingVisualization-master\sorting visualization\obj\Release\sorting visualization_MarkupCompile.lref
+C:\Users\Vogorip\Documents\source\repos\SortingVisualization-master\sorting visualization\obj\Release\MainWindow.baml
+C:\Users\Vogorip\Documents\source\repos\SortingVisualization-master\sorting visualization\obj\Release\sorting visualization.g.resources
+C:\Users\Vogorip\Documents\source\repos\SortingVisualization-master\sorting visualization\obj\Release\sorting_visualization.Properties.Resources.resources
+C:\Users\Vogorip\Documents\source\repos\SortingVisualization-master\sorting visualization\obj\Release\SortingVisualization.csproj.GenerateResource.cache
+C:\Users\Vogorip\Documents\source\repos\SortingVisualization-master\sorting visualization\obj\Release\SortingVisualization.csproj.CoreCompileInputs.cache
+C:\Users\Vogorip\Documents\source\repos\SortingVisualization-master\sorting visualization\obj\Release\sorting visualization.exe
+C:\Users\Vogorip\Documents\source\repos\SortingVisualization-master\sorting visualization\obj\Release\sorting visualization.pdb

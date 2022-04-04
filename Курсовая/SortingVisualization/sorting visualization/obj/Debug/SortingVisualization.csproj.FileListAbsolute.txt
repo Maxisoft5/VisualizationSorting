@@ -1,0 +1,60 @@
+C:\Users\Vogorip\Desktop\SortingVisualization-master\sorting visualization\bin\Debug\sorting visualization.exe.config
+C:\Users\Vogorip\Desktop\SortingVisualization-master\sorting visualization\bin\Debug\sorting visualization.exe
+C:\Users\Vogorip\Desktop\SortingVisualization-master\sorting visualization\bin\Debug\sorting visualization.pdb
+C:\Users\Vogorip\Desktop\SortingVisualization-master\sorting visualization\obj\Debug\SortingVisualization.csprojAssemblyReference.cache
+C:\Users\Vogorip\Desktop\SortingVisualization-master\sorting visualization\obj\Debug\MainWindow.g.cs
+C:\Users\Vogorip\Desktop\SortingVisualization-master\sorting visualization\obj\Debug\App.g.cs
+C:\Users\Vogorip\Desktop\SortingVisualization-master\sorting visualization\obj\Debug\sorting visualization_MarkupCompile.cache
+C:\Users\Vogorip\Desktop\SortingVisualization-master\sorting visualization\obj\Debug\sorting visualization_MarkupCompile.lref
+C:\Users\Vogorip\Desktop\SortingVisualization-master\sorting visualization\obj\Debug\MainWindow.baml
+C:\Users\Vogorip\Desktop\SortingVisualization-master\sorting visualization\obj\Debug\sorting visualization.g.resources
+C:\Users\Vogorip\Desktop\SortingVisualization-master\sorting visualization\obj\Debug\sorting_visualization.Properties.Resources.resources
+C:\Users\Vogorip\Desktop\SortingVisualization-master\sorting visualization\obj\Debug\SortingVisualization.csproj.GenerateResource.cache
+C:\Users\Vogorip\Desktop\SortingVisualization-master\sorting visualization\obj\Debug\SortingVisualization.csproj.CoreCompileInputs.cache
+C:\Users\Vogorip\Desktop\SortingVisualization-master\sorting visualization\obj\Debug\sorting visualization.exe
+C:\Users\Vogorip\Desktop\SortingVisualization-master\sorting visualization\obj\Debug\sorting visualization.pdb
+C:\Users\Vogorip\Documents\source\repos\SortingVisualization-master\sorting visualization\bin\Debug\sorting visualization.exe.config
+C:\Users\Vogorip\Documents\source\repos\SortingVisualization-master\sorting visualization\bin\Debug\sorting visualization.exe
+C:\Users\Vogorip\Documents\source\repos\SortingVisualization-master\sorting visualization\bin\Debug\sorting visualization.pdb
+C:\Users\Vogorip\Documents\source\repos\SortingVisualization-master\sorting visualization\obj\Debug\SortingVisualization.csprojAssemblyReference.cache
+C:\Users\Vogorip\Documents\source\repos\SortingVisualization-master\sorting visualization\obj\Debug\MainWindow.g.cs
+C:\Users\Vogorip\Documents\source\repos\SortingVisualization-master\sorting visualization\obj\Debug\App.g.cs
+C:\Users\Vogorip\Documents\source\repos\SortingVisualization-master\sorting visualization\obj\Debug\sorting visualization_MarkupCompile.cache
+C:\Users\Vogorip\Documents\source\repos\SortingVisualization-master\sorting visualization\obj\Debug\sorting visualization_MarkupCompile.lref
+C:\Users\Vogorip\Documents\source\repos\SortingVisualization-master\sorting visualization\obj\Debug\MainWindow.baml
+C:\Users\Vogorip\Documents\source\repos\SortingVisualization-master\sorting visualization\obj\Debug\sorting visualization.g.resources
+C:\Users\Vogorip\Documents\source\repos\SortingVisualization-master\sorting visualization\obj\Debug\sorting_visualization.Properties.Resources.resources
+C:\Users\Vogorip\Documents\source\repos\SortingVisualization-master\sorting visualization\obj\Debug\SortingVisualization.csproj.GenerateResource.cache
+C:\Users\Vogorip\Documents\source\repos\SortingVisualization-master\sorting visualization\obj\Debug\SortingVisualization.csproj.CoreCompileInputs.cache
+C:\Users\Vogorip\Documents\source\repos\SortingVisualization-master\sorting visualization\obj\Debug\sorting visualization.exe
+C:\Users\Vogorip\Documents\source\repos\SortingVisualization-master\sorting visualization\obj\Debug\sorting visualization.pdb
+C:\Users\Maxisoft\Desktop\Курсач Академ\SortingVisualization\sorting visualization\bin\Debug\sorting visualization.exe.config
+C:\Users\Maxisoft\Desktop\Курсач Академ\SortingVisualization\sorting visualization\bin\Debug\sorting visualization.exe
+C:\Users\Maxisoft\Desktop\Курсач Академ\SortingVisualization\sorting visualization\bin\Debug\sorting visualization.pdb
+C:\Users\Maxisoft\Desktop\Курсач Академ\SortingVisualization\sorting visualization\obj\Debug\SortingVisualization.csprojAssemblyReference.cache
+C:\Users\Maxisoft\Desktop\Курсач Академ\SortingVisualization\sorting visualization\obj\Debug\MainWindow.g.cs
+C:\Users\Maxisoft\Desktop\Курсач Академ\SortingVisualization\sorting visualization\obj\Debug\App.g.cs
+C:\Users\Maxisoft\Desktop\Курсач Академ\SortingVisualization\sorting visualization\obj\Debug\sorting visualization_MarkupCompile.cache
+C:\Users\Maxisoft\Desktop\Курсач Академ\SortingVisualization\sorting visualization\obj\Debug\sorting visualization_MarkupCompile.lref
+C:\Users\Maxisoft\Desktop\Курсач Академ\SortingVisualization\sorting visualization\obj\Debug\MainWindow.baml
+C:\Users\Maxisoft\Desktop\Курсач Академ\SortingVisualization\sorting visualization\obj\Debug\sorting visualization.g.resources
+C:\Users\Maxisoft\Desktop\Курсач Академ\SortingVisualization\sorting visualization\obj\Debug\sorting_visualization.Properties.Resources.resources
+C:\Users\Maxisoft\Desktop\Курсач Академ\SortingVisualization\sorting visualization\obj\Debug\SortingVisualization.csproj.GenerateResource.cache
+C:\Users\Maxisoft\Desktop\Курсач Академ\SortingVisualization\sorting visualization\obj\Debug\SortingVisualization.csproj.CoreCompileInputs.cache
+C:\Users\Maxisoft\Desktop\Курсач Академ\SortingVisualization\sorting visualization\obj\Debug\sorting visualization.exe
+C:\Users\Maxisoft\Desktop\Курсач Академ\SortingVisualization\sorting visualization\obj\Debug\sorting visualization.pdb
+E:\Академ Дискретная математика\Курсовая\SortingVisualization\sorting visualization\bin\Debug\sorting visualization.exe.config
+E:\Академ Дискретная математика\Курсовая\SortingVisualization\sorting visualization\bin\Debug\sorting visualization.exe
+E:\Академ Дискретная математика\Курсовая\SortingVisualization\sorting visualization\bin\Debug\sorting visualization.pdb
+E:\Академ Дискретная математика\Курсовая\SortingVisualization\sorting visualization\obj\Debug\SortingVisualization.csprojAssemblyReference.cache
+E:\Академ Дискретная математика\Курсовая\SortingVisualization\sorting visualization\obj\Debug\MainWindow.g.cs
+E:\Академ Дискретная математика\Курсовая\SortingVisualization\sorting visualization\obj\Debug\App.g.cs
+E:\Академ Дискретная математика\Курсовая\SortingVisualization\sorting visualization\obj\Debug\sorting visualization_MarkupCompile.cache
+E:\Академ Дискретная математика\Курсовая\SortingVisualization\sorting visualization\obj\Debug\sorting visualization_MarkupCompile.lref
+E:\Академ Дискретная математика\Курсовая\SortingVisualization\sorting visualization\obj\Debug\MainWindow.baml
+E:\Академ Дискретная математика\Курсовая\SortingVisualization\sorting visualization\obj\Debug\sorting visualization.g.resources
+E:\Академ Дискретная математика\Курсовая\SortingVisualization\sorting visualization\obj\Debug\sorting_visualization.Properties.Resources.resources
+E:\Академ Дискретная математика\Курсовая\SortingVisualization\sorting visualization\obj\Debug\SortingVisualization.csproj.GenerateResource.cache
+E:\Академ Дискретная математика\Курсовая\SortingVisualization\sorting visualization\obj\Debug\SortingVisualization.csproj.CoreCompileInputs.cache
+E:\Академ Дискретная математика\Курсовая\SortingVisualization\sorting visualization\obj\Debug\sorting visualization.exe
+E:\Академ Дискретная математика\Курсовая\SortingVisualization\sorting visualization\obj\Debug\sorting visualization.pdb
